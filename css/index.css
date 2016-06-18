@@ -8,7 +8,6 @@ img{
 	border:none;
 }
 .maxbox{
-	border:1px solid red;
 	width:100%;
 	height:auto;
 }
@@ -1223,6 +1222,7 @@ i{
 	position:fixed;
 	top:140px;
 	left:30px;
+	display:none;
 }
 .left_nav ul li{
 	width:30px;
